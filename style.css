@@ -1,9 +1,35 @@
-nav{
-    background: black;
-    color: white;
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Inter", sans-serif;
 }
 
-button{
-    background-color: black;
-    text-decoration-color: white;
+#nav-bar {
+  background: black;
+  color: white;
+  padding: 20px;
+}
+
+#heading,#para,#tag {
+  padding: 20px;
+  margin: 5px;
+}
+
+#button {
+  background-color: black;
+  color: white;
+  padding: 20px;
+  margin: 5px;
+}
+
+#img {
+  padding: 20px;
+  margin: 5px;
+  height: 600px;
+  width: 650px;
+}
+
+#list{
+    padding-left: 50px;
+    margin: 15px;
 }
